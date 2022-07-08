@@ -1,0 +1,51 @@
+body{
+
+    background-color:rgb(228, 202, 171);
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.data1{
+    font-style: italic;
+    font-size: 2.5rem;
+    font-weight: 2.0rem;
+    color: rgb(121, 69, 1)
+}
+.data2{
+    font-style: italic;
+    font-size: 2.5rem;
+    font-weight: 2.0rem;
+    color: black;
+}
+.data3{
+    font-style: italic;
+    font-size:1.5rem ;
+    color: rgb(58, 37, 11);
+
+}
+.data4{
+    cursor: pointer;
+    color: white;
+    background-color:rgb(121, 69, 1);
+    border-radius: 20px;
+    font-style: italic;
+    font-weight:2.0rem ;
+    width: 200px;
+    margin-left: 50px;
+    padding-left: 32px;
+}
+.data5{
+    cursor: pointer;
+    background-color: rgb(121, 69, 1);
+    font-style: italic;
+    font-weight: 2.5rem;
+    color: white;
+    width: 200px;
+    padding: 1rem 1rem;
+    margin-left: 50px;
+}
